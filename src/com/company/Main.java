@@ -7,6 +7,6 @@ public class Main
     public static void main(String[] args)
     {
 	  Scanner str = new Scanner(System.in);
-	  System.out.println(str.nextLine());
+	  System.out.println("Yor string is: " + str.nextLine());
     }
 }
